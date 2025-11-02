@@ -135,7 +135,7 @@ def sepia(img):
     cv2.destroyAllWindows()
 
 #Calling Functions
-brightness(img)
+#brightness(img)
 #tv_60(img)
 #duo_tone(img)
 #sepia(img)
